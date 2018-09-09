@@ -21,6 +21,7 @@ It contains several functions and **folders**:
 * stop_rule.m
 * **algorithms**
     * VANILLA_NeNMF.m
+    * RPI_NeNMF.m
     * RSI_NeNMF.m 
 * **output**
 * **synthetic_data**
