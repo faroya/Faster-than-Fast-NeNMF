@@ -30,7 +30,7 @@ It contains several functions and **folders**:
 ### Reference
 If you use this code for research or educational purpose, please cite:
 
-> F. Yahaya, M. Puigt, G. Delmaire, and G. Roussel, "Faster-than-fast NMF using random projections and Nesterov iterations," in Proc. of  iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, Marseille, France, November 21-23, 2018. 
+> F. Yahaya, M. Puigt, G. Delmaire, and G. Roussel, *"[Faster-than-fast NMF using random projections and Nesterov iterations,](https://hal.archives-ouvertes.fr/hal-01859713)"* in Proc. of  iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, Marseille, France, November 21-23, 2018. 
 > 
 
 ### Support
