@@ -5,7 +5,27 @@ Random projections have been recently implemented in Nonnegative Matrix Factoriz
 ToWrite
 
 ## Download
+[Download the Matlab code of the proposed NeNMF method with random projections](https://gogs.univ-littoral.fr/puigt/Faster-than-fast_NMF/src/master/Code)
+The code was written by Farouk YAHAYA (farouk.yahaya [at] univ-littoral.fr) and is maintained by Farouk YAHAYA and Matthieu PUIGT (matthieu.puigt [at] univ-littoral.fr).
+
+It contains several functions and folders:
+
+* README.m
+* add_paths.m
+* Demo.m
+* data_simuilation.m
+* plots.m
+* stop_rule.m
+* **algorithms**
+    * VANILLA_NeNMF.m
+    * RSI_NeNMF.m 
+* **output**
+* **synthetic_data**
+
 
 ## Reference
-F. Yahaya, M. Puigt, G. Delmaire, and G. Roussel, "Faster-than-fast NMF using random projections and Nesterov iterations," in Proc. of  iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, Marseille, France, November 21-23, 2018. 
+If you use this code for research or educational purpose, please cite:
+
+> F. Yahaya, M. Puigt, G. Delmaire, and G. Roussel, "Faster-than-fast NMF using random projections and Nesterov iterations," in Proc. of  iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, Marseille, France, November 21-23, 2018. 
+> 
 
